@@ -31,4 +31,9 @@ class HomeController extends Controller
     {
         return view('cart');
     }
+    //cart
+    public function productView()
+    {
+        return view('product');
+    }
 }

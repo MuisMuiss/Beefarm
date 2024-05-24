@@ -380,7 +380,7 @@
                                             <div class="item_product_main">
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28670003" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-hoa-ca-phe.html" title="Mật Hoa Cà Phê">
+                                                        <a class="image_thumb" href="product" title="Mật Hoa Cà Phê">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="https://bizweb.dktcdn.net/100/472/304/products/15.png?v=1669708333197" alt="Mật Hoa Cà Phê" class="lazyload img-responsive center-block" />
                                                         </a>
 
@@ -392,7 +392,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-hoa-ca-phe.html" title="Mật Hoa Cà Phê">Mật Hoa Cà Phê</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật Hoa Cà Phê">Mật Hoa Cà Phê</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 67%
@@ -410,7 +410,7 @@
                                             <div class="item_product_main">
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669925" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-rung-mat-khoai.html" title="Mật ong rừng mật khoái">
+                                                        <a class="image_thumb" href="product" title="Mật ong rừng mật khoái">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="https://bizweb.dktcdn.net/100/472/304/products/14.png?v=1669707975340" alt="Mật ong rừng mật khoái" class="lazyload img-responsive center-block" />
                                                         </a>
 
@@ -422,7 +422,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-rung-mat-khoai.html" title="Mật ong rừng mật khoái">Mật ong rừng mật khoái</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong rừng mật khoái">Mật ong rừng mật khoái</a></h3>
                                                         <div class="price-box">
                                                             500.000₫
                                                         </div>
@@ -435,19 +435,19 @@
                                             <div class="item_product_main">
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669863" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-hoa-sam-ngoc-linh.html" title="Mật Ong Hoa Sâm Ngọc Linh">
+                                                        <a class="image_thumb" href="product" title="Mật Ong Hoa Sâm Ngọc Linh">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="https://bizweb.dktcdn.net/100/472/304/products/9350631000056.jpg?v=1669707636973" alt="Mật Ong Hoa Sâm Ngọc Linh" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76948955" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-hoa-sam-ngoc-linh.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-hoa-sam-ngoc-linh.html" title="Mật Ong Hoa Sâm Ngọc Linh">Mật Ong Hoa Sâm Ngọc Linh</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật Ong Hoa Sâm Ngọc Linh">Mật Ong Hoa Sâm Ngọc Linh</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 33%
@@ -466,7 +466,7 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669816" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-sua-chua.html" title="Mật ong sữa chúa">
+                                                        <a class="image_thumb" href="product" title="Mật ong sữa chúa">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/13a6f2.png?v=1669707219760" alt="Mật ong sữa chúa" class="lazyload img-responsive center-block" />
                                                         </a>
 
@@ -478,7 +478,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-sua-chua.html" title="Mật ong sữa chúa">Mật ong sữa chúa</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong sữa chúa">Mật ong sữa chúa</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 50%
@@ -499,7 +499,7 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669659" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-chin-hoa-nhan-co-thu.html" title="Mật ong chín Hoa Nhãn Cổ Thụ">
+                                                        <a class="image_thumb" href="product" title="Mật ong chín Hoa Nhãn Cổ Thụ">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/3df-800-10d22b.jpg?v=1669706882417" alt="Mật ong chín Hoa Nhãn Cổ Thụ" class="lazyload img-responsive center-block" />
                                                         </a>
 
@@ -511,7 +511,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-chin-hoa-nhan-co-thu.html" title="Mật ong chín Hoa Nhãn Cổ Thụ">Mật ong chín Hoa Nhãn Cổ Thụ</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong chín Hoa Nhãn Cổ Thụ">Mật ong chín Hoa Nhãn Cổ Thụ</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 25%
@@ -532,19 +532,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669556" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-hoa-bac-ha.html" title="Mật ong Hoa Bạc Hà">
+                                                        <a class="image_thumb" href="product" title="Mật ong Hoa Bạc Hà">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/1150f3.png?v=1669706278643" alt="Mật ong Hoa Bạc Hà" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76948333" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-hoa-bac-ha.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-hoa-bac-ha.html" title="Mật ong Hoa Bạc Hà">Mật ong Hoa Bạc Hà</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong Hoa Bạc Hà">Mật ong Hoa Bạc Hà</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 50%
@@ -565,19 +565,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669509" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-tinh-nghe.html" title="Mật ong Tinh nghệ">
+                                                        <a class="image_thumb" href="product" title="Mật ong Tinh nghệ">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/86017.png?v=1669705941350" alt="Mật ong Tinh nghệ" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76948242" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-tinh-nghe.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-tinh-nghe.html" title="Mật ong Tinh nghệ">Mật ong Tinh nghệ</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong Tinh nghệ">Mật ong Tinh nghệ</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 30%
@@ -599,19 +599,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669438" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-chin-hoa-xuyen-chi.html" title="Mật ong chín Hoa Xuyến Chi">
+                                                        <a class="image_thumb" href="product" title="Mật ong chín Hoa Xuyến Chi">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/4008e.png?v=1669705551557" alt="Mật ong chín Hoa Xuyến Chi" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76948080" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-chin-hoa-xuyen-chi.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-chin-hoa-xuyen-chi.html" title="Mật ong chín Hoa Xuyến Chi">Mật ong chín Hoa Xuyến Chi</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong chín Hoa Xuyến Chi">Mật ong chín Hoa Xuyến Chi</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 50%
@@ -633,7 +633,7 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669317" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-rung-hoa-rung-phuong-nam.html" title="Mật ong rừng Hoa Rừng Phương Nam">
+                                                        <a class="image_thumb" href="product" title="Mật ong rừng Hoa Rừng Phương Nam">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/17ce88.png?v=1669708779423" alt="Mật ong rừng Hoa Rừng Phương Nam" class="lazyload img-responsive center-block" />
                                                         </a>
 
@@ -645,7 +645,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-rung-hoa-rung-phuong-nam.html" title="Mật ong rừng Hoa Rừng Phương Nam">Mật ong rừng Hoa Rừng Phương Nam</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong rừng Hoa Rừng Phương Nam">Mật ong rừng Hoa Rừng Phương Nam</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 50%
@@ -667,19 +667,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28669297" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-rung-hoa-cao-nguyen.html" title="Mật ong rừng Hoa Cao Nguyên">
+                                                        <a class="image_thumb" href="product" title="Mật ong rừng Hoa Cao Nguyên">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/162efd.png?v=1669708547967" alt="Mật ong rừng Hoa Cao Nguyên" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76947736" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-rung-hoa-cao-nguyen.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-rung-hoa-cao-nguyen.html" title="Mật ong rừng Hoa Cao Nguyên">Mật ong rừng Hoa Cao Nguyên</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong rừng Hoa Cao Nguyên">Mật ong rừng Hoa Cao Nguyên</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 23%
@@ -700,19 +700,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28668464" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../mat-ong-rung-cao-thao-duoc-honimore-lady.html" title="Mật ong rừng cao thảo dược Honimore Lady">
+                                                        <a class="image_thumb" href="product" title="Mật ong rừng cao thảo dược Honimore Lady">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/frame-8cde0.png?v=1669697248883" alt="Mật ong rừng cao thảo dược Honimore Lady" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76945705" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../mat-ong-rung-cao-thao-duoc-honimore-lady.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../mat-ong-rung-cao-thao-duoc-honimore-lady.html" title="Mật ong rừng cao thảo dược Honimore Lady">Mật ong rừng cao thảo dược Honimore Lady</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong rừng cao thảo dược Honimore Lady">Mật ong rừng cao thảo dược Honimore Lady</a></h3>
                                                         <div class="price-box">
                                                             <span class="discount">-
                                                                 40%
@@ -733,19 +733,19 @@
 
                                                 <form action="https://template-honey-bee.mysapo.net/cart/add" method="post" class="variants product-action wishItem" data-cart-form data-id="product-actions-28668377" enctype="multipart/form-data">
                                                     <div class="product-thumbnail">
-                                                        <a class="image_thumb" href="../combo-mat-ong-rung-hoa-yen-bach-honimore.html" title="Mật ong rừng Hoa Yên Bạch Honimore">
+                                                        <a class="image_thumb" href="product" title="Mật ong rừng Hoa Yên Bạch Honimore">
                                                             <img width="199" height="199" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" data-src="befarm/bizweb.dktcdn.net/100/472/304/products/frame-7-14023.png?v=1669696727853" alt="Mật ong rừng Hoa Yên Bạch Honimore" class="lazyload img-responsive center-block" />
                                                         </a>
 
                                                         <div class="action-cart">
                                                             <input class="hidden" type="hidden" name="variantId" value="76944878" />
-                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='../combo-mat-ong-rung-hoa-yen-bach-honimore.html'">
+                                                            <button class="btn btn-cart btn-left  btn btn-views left-to option-choice" title="Tùy chọn" type="button" onclick="window.location.href='product'">
                                                                 Tùy chọn
                                                             </button>
                                                         </div>
                                                     </div>
                                                     <div class="info-product">
-                                                        <h3 class="product-name"><a href="../combo-mat-ong-rung-hoa-yen-bach-honimore.html" title="Mật ong rừng Hoa Yên Bạch Honimore">Mật ong rừng Hoa Yên Bạch Honimore</a></h3>
+                                                        <h3 class="product-name"><a href="product" title="Mật ong rừng Hoa Yên Bạch Honimore">Mật ong rừng Hoa Yên Bạch Honimore</a></h3>
                                                         <div class="price-box">
                                                             500.000₫
                                                         </div>

@@ -10,3 +10,4 @@ Route::get('/login',[HomeController::class,"loginView"]);
 Route::get('/register',[HomeController::class,"signinView"]);
 Route::get('/shop',[HomeController::class,"shopView"]);
 Route::get('/cart',[HomeController::class,"cartView"]);
+Route::get('/product',[HomeController::class,"productView"]);
